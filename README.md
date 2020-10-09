@@ -1,7 +1,5 @@
 # Scoland Yard - AI
 
-This is an AI capable of making the best move for MrX for the ScotlandYard game, implemented in here: https://github.com/emil64/Scotland-Yard
-
 ## Scoring Function
 The main objective of the scoring function is to take a ScotlandYardView and to generate
 a score mainly based on the distance between MrX and the detectives. To do that, the obvious
